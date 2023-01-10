@@ -4,7 +4,3 @@ marks<-c(88,78,25)
 df<-data.frame(names,age,marks)
 range(df $age)
 write.csv(df,"datafr.csv")
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
