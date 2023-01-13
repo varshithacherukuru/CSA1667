@@ -6,7 +6,3 @@ diabetes1
 
 #step 2
 chisq.test(diabetes1)
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
